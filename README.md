@@ -5,11 +5,11 @@
 
 ## I'm a Fullstack Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I have experience with Website programming, Aws
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking for chance to earn money
+- 🥅 2021 Goals: Gain certification
+- ⚡ Fun fact: I love to play video game, especially Age of Empires
 
 ### Spotify Playing 🎧
 
